@@ -1,5 +1,5 @@
 {
-  "name": "contentstack-poc",
+  "name": "contentstack-monorepo",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
